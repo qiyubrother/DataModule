@@ -1,0 +1,3 @@
+{
+  "mysqlConnectionString": "server=localhost;port=3306;database=nnhuman;uid=root;pwd=123456;"
+}
